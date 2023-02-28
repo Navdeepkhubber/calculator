@@ -3,7 +3,7 @@ This is a simple calculator app built with React that resembles the calculator a
 
 ## Demo 
 
-
+https://basic-calculator-react.web.app/
 
 ## Features
 * Addition, subtraction, multiplication, and division operations
